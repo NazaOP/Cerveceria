@@ -448,3 +448,32 @@ Claro, en el contexto de una simulación de producción de cerveza, los buffers 
    - **Descripción**: Almacena productos que no cumplen con los estándares de calidad y no pueden ser recuperados. Estos productos están destinados a ser eliminados de manera segura. El buffer asegura que los productos defectuosos no interfieran con el stock de productos de calidad.
    - **Capacidad**: Cantidad máxima de productos que puede almacenar antes de proceder con su eliminación, especificada en litros o unidades.
    - **Ubicación**: Ubicado en una zona designada para la disposición segura, lejos de las áreas de producción activa para evitar la contaminación cruzada con productos en buen estado.
+  
+   Cantidades para cada bloque anylogic:
+Para una cervecería de tamaño pequeño-mediano, los empleados necesarios en cada área dependerán de la automatización y los volúmenes de producción. Aquí tienes una estimación general:
+
+Molienda: 1-2 empleados
+
+Si es semiautomático, uno podría supervisar el proceso.
+Mezclado: 1 empleado
+
+El mezclado suele ser automatizado o manual, con un solo operario.
+Maceración: 1 empleado
+
+Similar al mezclado, uno suele ser suficiente para supervisar.
+Hervido: 1 empleado
+
+Este proceso es relativamente automatizado, pero requiere supervisión.
+Enfriamiento: 1 empleado
+
+Generalmente parte del proceso continuo con monitoreo.
+Fermentación: 1-2 empleados
+
+Requiere control de temperatura y mantenimiento, pero se puede hacer con pocos trabajadores.
+Maduración: 1 empleado
+
+Esta fase es más de monitoreo.
+Embotellamiento: 2-4 empleados
+
+Dependiendo de la automatización, el embotellamiento puede requerir varios operarios.
+En total, podrías necesitar entre 9 y 14 empleados, dependiendo del nivel de automatización y la necesidad de supervisión en cada etapa.
